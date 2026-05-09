@@ -1,1 +1,31 @@
+This project is an interactive sales dashboard built using Microsoft Excel.
+The dashboard analyzes online store sales performance using Pivot Tables, Charts, KPIs, and Slicers.
+
+Features:
+Sales Analysis by City
+Productwise Sales Analysis
+Interactive Slicers
+KPI Metrics
+Pivot Tables & Pivot Charts
+Business Insights
+
+KPIs Included:
+Total Sales
+Total Orders
+Delivered Orders
+Pending Orders
+
+Tools Used:
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers
+Excel Formulas
+
+Business Insights:
+Pune is the best-performing city.
+Laptop is the top-selling product.
+Pending and Cancelled orders need attention.
+
+
 <img width="930" height="542" alt="image" src="https://github.com/user-attachments/assets/be157b9d-0484-4aff-be42-cb43874fd63a" />
